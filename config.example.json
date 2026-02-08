@@ -1,0 +1,6 @@
+{
+  "token": "SEU_TOKEN",
+  "guild_id": 123456789012345678,
+  "log_channel_id": 123456789012345678,
+  "message_template": "{member} FOI CONVIDADO POR {inviter} E AGORA TEM {count} invites."
+}
